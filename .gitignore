@@ -12,6 +12,8 @@ Win32
 x64
 Debug
 Release
+bin
+bin-int
 MinSizeRel
 RelWithDebInfo
 *.xcodeproj
